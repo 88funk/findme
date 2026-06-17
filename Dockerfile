@@ -18,7 +18,7 @@ COPY src ./src
 RUN mvn clean package -DskipTests
 
 # Use a slim JDK image to run the jar
-FROM eclipse-temurin:17-jdk-alpine
+FROM maven:4.0.0-rc-5-sapmachine-21
 
 WORKDIR /app
 
