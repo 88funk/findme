@@ -1,3 +1,10 @@
 clickatell:
   api:
     key: 49VcNfHyv4PL_P0A2_CFeYXrzy0dtSep3okMJbmHzAvBtJA8MkkIXx7f_ngCDM1
+meta:
+  api:
+    whatsapp:
+      key: EAASyDSLnzSYBR4Ppac1ACGfJlAIIuyUirPMZCYW2psa4a9owGZCIYlx0V4tRZCNy6KgPDFODEGIvU0oKhYjf3t6dIOVQIGzRE81T98KbgNqDOEZCOaniVU4IWOqFby7Jjp6X7dgqgFE5pnxRt7mhdQSEwWCQO72LYZCU8BXFLmR18hUVbmZCwKAP7G9gt64LptQSOZAkEA7vVY3NXE3BquCxQZCvSYCA3RuGSD7TCw6xWTM8GnnUGncSUxtKqGQY3CpgfcNvwYOEC9w8tYipwDudNgZDZD
+      phoneId: 1240917732427447
+      url: https://graph.facebook.com/v25.0/
+      verify-token: 961848ef-e663-439e-b3b8-a9880e2689ac
